@@ -117,3 +117,6 @@ dmypy.json
 
 # unused game dir
 libtcod-1.10.3-x86_64-mingw/
+.vscode/
+libtcod-1.10.3-x86.x86_64-macos/
+libtcod.dylib
